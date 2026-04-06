@@ -2,7 +2,7 @@ package src.com.ecommerce.Main;
 
 import src.com.ecommerce.model.*;
 import src.com.ecommerce.service.*;
-public class Main {
+public class Main1 {
     public static void main(String[] args)
     {
         User u=new User("Test_user","dubai");
